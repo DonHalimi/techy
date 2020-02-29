@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+body{
+    background-image: url("https://background-tiles.com/overview/blue/patterns/large/1063.png");
+    font-family: 'Krona One';
+}
+
+a{
+    text-decoration: none;
+    -webkit-text-fill-color: #1F425C;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:  #619BC4;
+}
+
+ h3{
+  
+    font-size: 2.5rem;
+    -webkit-text-fill-color: #1F425C;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:  #619BC4;
+}
+
+ h4{
+    
+    font-size: 2.5rem;
+    -webkit-text-fill-color: #619BC4;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1F425C ;
+}
+
+header{
+    background-image: url("https://cdn.thedesigninspiration.com/wp-content/uploads/2013/11/Blue-Repeating-Pattern-l.jpg");    
+    border: 5px solid #619BC4;
+}
+
+.nav-logo{
+    margin: 10px 15px;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content:  space-around;
+}
+.nav-links{
+    display: flex;
+    justify-content:  space-between;
+}
+
+.nav-link{
+    margin: 10px 15px;
+}
+
+main{
+    margin: 25px 50px;
+    padding: 25px 50px;
+    text-align: center;
+    background-color: tomato;
+    border: 5px solid #619BC4;
+    border-radius: 16px;
+}
+
+.underheader-card-logo img{
+    height: 10%;
+    width: 10%;
+    margin-top: 5%;
+    background-color: white;
+
+}
